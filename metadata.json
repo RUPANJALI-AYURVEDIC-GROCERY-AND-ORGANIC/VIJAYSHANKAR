@@ -1,0 +1,6 @@
+{
+  "name": "Rupanjali Small Finance Bank",
+  "description": "Official digital banking portal for Rupanjali Small Finance Bank featuring high-interest savings, fixed deposits up to 8.75% p.a., MSME business loans, interactive financial calculators, and online NetBanking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
